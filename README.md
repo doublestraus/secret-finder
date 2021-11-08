@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Python-3.8-green"><img src="https://img.shields.io/badge/License-Apache%202.0-blue"><img src="https://img.shields.io/badge/Status-Beta-orange">
+<img src="https://img.shields.io/badge/Python-3.8-green"> <img src="https://img.shields.io/badge/License-Apache%202.0-blue"> <img src="https://img.shields.io/badge/Status-Beta-orange">
 # Secret scanner
 
 ## Description
