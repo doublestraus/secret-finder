@@ -18,7 +18,7 @@ Find secrets in Redmine, Confluence, Jira
 ## Installation
 
 Create "out" folder inside the project for reports<br />
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 ## Configuration config.json
 
