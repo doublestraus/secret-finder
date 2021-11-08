@@ -7,13 +7,13 @@ Find secrets in Redmine, Confluence, Jira
 
 ## Roadmap
 
-- Scoring tuning for password search
-- HTML reporting
-- Notions search support
-- DefectDojo integration polish
-- Config check
-- Chunk control
-- Change config format to yaml
+- [] Scoring tuning for password search
+- [] HTML reporting
+- [] Notions search support
+- [] DefectDojo integration polish
+- [] Config check
+- [] Chunk control
+- [] Change config format to yaml
 
 ## Installation
 
