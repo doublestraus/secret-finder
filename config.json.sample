@@ -1,0 +1,62 @@
+{
+    "base_config": {
+      "timeout": 30,
+      "re_scan": true,
+      "uuid_scan": true,
+      "twartefacts_scan": true,
+      "gdocs_search": true,
+      "experimental_scan": false,
+      "context_capture_span": 50,
+      "notifications": {
+        "myteam": {
+          "enabled": false,
+          "bot_id": "",
+          "bot_secret": "",
+          "channel_id": ""
+        },
+        "defectDojo": {
+          "enabled": false,
+          "defectDojo_url": "",
+          "login": "",
+          "password": "",
+          "api_key": ""
+        }
+      }
+    },
+  
+    "redmine": {
+      "url": "http://redmine",
+      "credentials": {
+        "login": "",
+        "password": ""
+      }
+    },
+    "confluence": {
+      "url": "https://confluence",
+      "oauth": true,
+      "spaces": [],
+      "credentials": {
+        "login": "",
+        "password": "",
+        "client_id": "",
+        "client_secret": "",
+        "consumer_key": "",
+        "private_key": ""
+      }
+    },
+     "jira": {
+       "url": "https://jira",
+       "oauth": false,
+       "spaces": [],
+       "credentials" : {
+         "login": "",
+         "password": ""
+       }
+     },
+    "lists":{
+      "badlist": ["пароль", "токен", "password", "pass", "учетка",
+             "credentials", "ключ", "token", "licensetoken",
+             "guid", "LicenseInfo", "tw"],
+      "badrootlist": ["парол", "токен", "pass", "license", "credentials", "token"]
+    }
+  }
